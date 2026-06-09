@@ -18,7 +18,7 @@ I dug into Massachusetts Department of Education data — **1,861 schools, 953,7
 ### 1. Graduation Rates
 Many Massachusetts schools graduate 100% of their students. But Curtis Tufts sits at 0%. Data can tell you *what* is happening. The harder work is figuring out *why* — is it economic disadvantage? Curriculum? Teaching staff? That's where the real investigation begins.
 
-![Graduation Rate](Grad_%.png)
+![Graduation Rate](Grad_rate.png)
 
 ### 2. Class Size vs. College Admission Rates
 I assumed smaller classes meant more teacher time per student and better college outcomes. **The trend line disagreed.**
