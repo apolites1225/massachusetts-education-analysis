@@ -71,9 +71,9 @@ Community Day Charter Public School posts 50%+ passing rates on 4th Grade MCAS m
 
 ## Key Recommendations
 
-- **Shift from snapshot to trend analysis.** A single year identifies where performance stands; multi-year data identifies which schools are improving or declining — and at what rate. The Massachusetts DOE should prioritize longitudinal tracking to enable predictive rather than reactive intervention.
-- **Investigate economic disadvantage as the primary confound.** The class size vs. college admission finding suggests economic disadvantage may be the dominant variable. Controlling for it would clarify whether class size policy changes would produce measurable outcome improvements.
-- **Study high-performing outliers systematically.** Community Day Charter and similar districts are achieving materially better outcomes than predicted by their demographics. Structured case studies of their instructional and operational models could surface replicable practices for district-level adoption.
+- **Shift from snapshot to trend analysis**: A single year identifies where performance stands; multi-year data identifies which schools are improving or declining — and at what rate. The Massachusetts DOE should prioritize longitudinal tracking to enable predictive rather than reactive intervention.
+- **Investigate economic disadvantage as the primary confound**: The class size vs. college admission finding suggests economic disadvantage may be the dominant variable. Controlling for it would clarify whether class size policy changes would produce measurable outcome improvements.
+- **Study high-performing outliers systematically**: Community Day Charter and similar districts are achieving materially better outcomes than predicted by their demographics. Structured case studies of their instructional and operational models could surface replicable practices for district-level adoption.
 
 ---
 
