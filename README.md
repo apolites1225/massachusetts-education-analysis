@@ -41,9 +41,9 @@ Three material findings emerged:
 
 ## Tools & Skills Used
 
-- **Tableau** — Interactive dashboard, calculated fields, trend lines, scatter plots, bar charts
-- **Data visualization** — Multi-view dashboard design with school- and district-level filtering
-- **Exploratory analysis** — Identifying outliers, trend lines, and demographic breakdowns
+- **Tableau**: Interactive dashboard, calculated fields, trend lines, scatter plots, bar charts
+- **Data visualization**: Multi-view dashboard design with school- and district-level filtering
+- **Exploratory analysis**: Identifying outliers, trend lines, and demographic breakdowns
 
 ---
 
