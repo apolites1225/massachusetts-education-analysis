@@ -49,19 +49,19 @@ Three material findings emerged:
 
 ## Key Findings
 
-### Graduation Rates: Wide Variance with Outliers at Both Ends
+**Graduation Rates: Wide Variance with Outliers at Both Ends**
 
 Most Massachusetts schools graduate 100% of their students. Curtis Tufts sits at 0%. The data surfaces what is happening — the harder analytical work is identifying why. Economic disadvantage, curriculum, and staffing quality are candidate variables, but a single-year snapshot cannot isolate cause from correlation.
 
 ![Graduation Rate](Grad_rate.png)
 
-### Class Size vs. College Admission Rates — Not the Story You'd Expect
+**Class Size vs. College Admission Rates — Not the Story You'd Expect**
 
 The expected relationship — smaller classes, better outcomes — does not hold in aggregate. The trend line shows larger class sizes correlating with higher college admission rates. The important nuance: schools with higher economic disadvantage consistently fall below that trend line. Class size may be acting as a proxy for school resource level and demographics rather than as an independent driver of college outcomes.
 
 ![College vs. Class Size](College_vs_class_size.png)
 
-### 4th Grade MCAS Proficiency: Charter Schools as Outliers Worth Studying
+**4th Grade MCAS Proficiency: Charter Schools as Outliers Worth Studying**
 
 Community Day Charter Public School posts 50%+ passing rates on 4th Grade MCAS math — well above comparable district schools. The question is not just what their numbers are, but what operational or instructional decisions explain the gap. That type of insight is what moves from descriptive analytics to actionable policy.
 
