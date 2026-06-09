@@ -1,4 +1,4 @@
-# Massachusetts Education Analysis — Tableau Dashboard
+# Massachusetts Department of Education — Tableau Analysis
 
 **By Aristotle Polites** | Data Analyst | Published: June 1, 2026
 
