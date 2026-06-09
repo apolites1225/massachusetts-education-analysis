@@ -6,6 +6,7 @@
 
 🎥 **[Watch Full Walkthrough on Loom](https://www.loom.com/share/471f2e3f917042fe9dac6ab258877f9a)**
 
+[![Dashboard Preview](mass_edu_dash.png)](https://public.tableau.com/app/profile/aristotle.polites/viz/MassachusettsEducationOverview_17801698414110/MassachusettsEducationOverview)
 ---
 
 ## Project Overview
