@@ -18,13 +18,19 @@ I dug into Massachusetts Department of Education data — **1,861 schools, 953,7
 ### 1. Graduation Rates
 Many Massachusetts schools graduate 100% of their students. But Curtis Tufts sits at 0%. Data can tell you *what* is happening. The harder work is figuring out *why* — is it economic disadvantage? Curriculum? Teaching staff? That's where the real investigation begins.
 
+![Graduation Rate](Grad %.png)
+
 ### 2. Class Size vs. College Admission Rates
 I assumed smaller classes meant more teacher time per student and better college outcomes. **The trend line disagreed.**
 
 Larger class sizes actually correlated with higher college admission rates — but here's the nuance: schools with higher economic disadvantage consistently fell below that trend line. So class size may not be the real driver — **economic disadvantage might be the bigger factor worth investigating.**
 
+![College Admin vs. Class Size](College adm. vs class size.png)
+
 ### 3. 4th Grade MCAS Proficiency: Bright Spots Worth Studying
 Some districts are exceptional — **Community Day Charter Public School** stands out with 50%+ passing rates. The question isn't just what their numbers are, but what they're doing differently. That's the kind of insight that can actually move the needle for struggling schools.
+
+![4th Grade MCAS Exam](4th grade math.png)
 
 ---
 
